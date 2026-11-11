@@ -1,0 +1,2 @@
+The 3D models provided above were made in Autodesk Fusion. More importantly, note that while I have 3D printed them, as I had to manually post-process items so that they fit accordingly -- this is largely due to adjustments made to offset calibration issues in my FDM 3D printer.
+Also, `motor_holder.stl` is made with a certain PVC pipe diameter used to make a DIY-motor, but this portion is still in-progress.
