@@ -44,5 +44,3 @@ After that the fins go back to centre and the program keeps logging for 2 more m
 In bench mode there is no launch detection and the parachute never deploys. After the 3 second calibration the fins respond straight away, so the the rocket can be held nose up, tilt it by hand and check that each fin moves the right way. If one moves backwards, flip its sign in `FIN_SIGN` at the top of `flight.py`. That's also where the gains, pins and timings are.
 
 Every run saves a CSV in `flight/logs` with the time, phase, tilt, rotation rates, speed, altitude and all four fin angles.
-
-Coming soon!
