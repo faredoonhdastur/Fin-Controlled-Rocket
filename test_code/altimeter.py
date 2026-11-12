@@ -1,9 +1,10 @@
-# Test code for HW-611 (BME280) altimeter
+# Test code for HW-611 (BME280) altimeter 
 
 import smbus2
 import bme280
 from time import sleep
 
+# Altitude above sea level
 def barometric_altitude(P, P_0):
     return 44330 * (1 - (P / P_0) ** (1 / 5.255))
 
